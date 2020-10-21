@@ -1,2 +1,4 @@
 # Flutter-app
-a demo version of a teacher assistant app.
+
+some of the apps made using flutter and firebase
+https://drive.google.com/drive/folders/1rsOiI0r2S5-Sv_ZWa14nVqlnBVKZum80?usp=sharing
